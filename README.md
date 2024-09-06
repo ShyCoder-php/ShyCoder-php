@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ShyCoder-php
+- 👀 I’m interested in web developing
+- 🌱 I’m currently learning mostly php and python
+- 📫 How to reach me antoniodellaventura@antoniodellaventura.com
